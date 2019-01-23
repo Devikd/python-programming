@@ -1,6 +1,6 @@
-n=input()
-perm = permutations(n)
-if(n=="22"):
+m=input()
+perm = permutations(m)
+if(m=="22"):
     print("22")
 else:
     for x in  (perm):
